@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\User\Desktop\springbootexample"/>
+		<item value="C:\Users\User\Desktop\CRUD-APPLICATION-using-SPRINGBOOT-MYSQL-JSP-Validation-and-PAGINATION-master"/>
+		<item value="C:\Users\User\Desktop\CRUD-APPLICATION-using-SPRINGBOOT-MYSQL-JSP-Validation-and-PAGINATION-master\springbootexample\SpringBoot_LetsStartCoding"/>
+		<item value="D:\PAF\paf_project"/>
+		<item value="C:\Users\User\Documents\SpringMVC\paf_project"/>
+		<item value="C:\Users\User\Documents\SpringMVC\SpringMVCCRUDSimple"/>
+		<item value="C:\Users\User\Documents\SpringMVCCRUDSimple"/>
+		<item value="E:\SpringMVCCRUDSimple"/>
+		<item value="F:\PAF Project\Crud Final\Final"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="true" key="BUILD_ALL"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
+		<item value="465" key="DIALOG_HEIGHT"/>
+		<item value="710" key="DIALOG_X_ORIGIN"/>
+		<item value="272" key="DIALOG_Y_ORIGIN"/>
+		<item value="true" key="BUILD_NOW"/>
+	</section>
+</section>

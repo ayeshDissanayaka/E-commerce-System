@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;jdbc.properties&apos; to &apos;paf_project/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;CRUDWebAppMavenized&apos;&#x0D;&#x0A;- Destination element: &apos;paf_project/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;jdbc.properties&apos;" description="Copy file" destination="=paf_project/src\/main\/resources" element1="src/main/webapp/WEB-INF/jdbc.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1556191303430" units="0" version="1.0"/>
+</session>

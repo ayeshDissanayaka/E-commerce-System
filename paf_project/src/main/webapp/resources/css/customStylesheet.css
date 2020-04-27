@@ -1,0 +1,62 @@
+body{	margin: 0px;
+		padding: 0px;
+		font-family: Trebuchet MS;
+		color:black;
+		font-size: 20px;
+		font-weight: normal;
+		background-size: cover;
+	
+
+}
+
+p { font-size: 13px;
+
+}
+
+h1, h2, h3, h4 p { margin: 0px 0px 10px 0px; font-weigh: bold; font-family: Trebuchet MS; }
+h3 { font-size: 20px; }
+
+h4{
+	color:gray;
+}
+
+.navbar-laravel
+{
+    box-shadow: 0 2px 4px rgba(0,0,0,.04);
+}
+
+.navbar-brand , .nav-link, .my-form, .login-form
+{
+    font-family: Trebuchet MS;
+}
+
+.my-form
+{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.my-form .row
+{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.login-form
+{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.login-form .row
+{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+
+
+
+
+
+
